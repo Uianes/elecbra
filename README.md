@@ -1,7 +1,70 @@
-# ELECBRA - ELECTRONIC BRAIN
+# ELECBRA — Electronic Brain
 
 Destinado a publicação de conteúdos educacionais em Computação.
 Acessibilidade é um diferencial.
+
+O **ELECBRA** é um projeto pessoal e autoral que reúne **meus livros, materiais didáticos e produções educacionais** em um único espaço digital, com o compromisso de **democratizar o acesso ao conhecimento**, valorizar a educação pública e fortalecer o uso de **tecnologias livres**.
+
+🔗 elecbra.site/
+
+---
+
+## 🧠 Princípios do projeto
+
+O ELECBRA é guiado por alguns princípios fundamentais:
+
+- **Conhecimento como bem público**
+- **Educação pública, gratuita e de qualidade**
+- **Acesso aberto e licenças livres**
+- **Tecnologia como meio de emancipação**
+- **Produção acadêmica aplicada à realidade escolar**
+
+---
+
+## ✍️ Autoria
+
+**Uianes Luiz Rockenbach Biondo**  
+Professor de Computação • Educador • Pesquisador
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+O projeto é desenvolvido com foco em simplicidade, longevidade e independência tecnológica:
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+✔️ Arquitetura 100% client-side  
+✔️ Sem dependência de backend  
+✔️ Fácil manutenção e preservação a longo prazo  
+✔️ Foco em ser o site mais leve possível
+
+---
+
+## 📄 Licenças e uso
+
+Os conteúdos disponibilizados seguem, sempre que indicado, **licenças Creative Commons**, permitindo:
+
+- uso educacional
+- adaptação
+- compartilhamento
+
+Desde que respeitada a autoria.
+
+Consulte cada obra para verificar a licença específica.
+
+---
+
+## 🤝 Contribuições e contato
+
+O ELECBRA é um projeto vivo.
+
+Sugestões, relatos de uso educacional e contribuições são bem-vindos, especialmente quando fortalecem a educação pública e o conhecimento livre.
+
+---
+
 
 Funcionalidades atuais:
 
